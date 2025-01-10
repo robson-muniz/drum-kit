@@ -26,7 +26,7 @@ An interactive drum kit built with HTML, CSS, and JavaScript. Play different dru
 
 ## Demo 🚀
 
-Check out the live version of the project [here](https://robson-muniz.github.io/drum-kit/). 🌐
+Check out the live version of the project [here](https://nimble-rugelach-ebe329.netlify.app). 🌐
 
 ---
 
