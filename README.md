@@ -8,12 +8,12 @@ An interactive drum kit built with HTML, CSS, and JavaScript. Play different dru
 
 ## Table of Contents 📋
 
-- [Features](#features) ✨
-- [Demo](#demo) 🚀
-- [Technologies](#technologies) 🛠️
-- [How to Run Locally](#how-to-run-locally) 💻
-- [Project Goals](#project-goals) 🎯
-- [Contact](#contact) 📞
+- [Features](#features)
+- [Demo](#demo)
+- [Technologies](#technologies)
+- [How to Run Locally](#how-to-run-locally)
+- [Project Goals](#project-goals)
+- [Contact](#contact)
 
 ---
 
