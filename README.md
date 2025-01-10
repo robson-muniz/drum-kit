@@ -17,7 +17,7 @@ An interactive drum kit built with HTML, CSS, and JavaScript. Play different dru
 
 ---
 
-## Features ✨
+##Features ✨
 
 - **Keyboard Interaction**: Play sounds using specific keys. 🎹
 - **Clickable Drums**: Click on drum elements to hear the beats. 🖱️🥁
